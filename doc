@@ -1,0 +1,151 @@
+{
+	"name": "ช่องสารคดี",
+	"author": "@แอนดรอยด์แอพฟรี",
+	"image": "https://www.pngkey.com/png/full/31-312197_pod-globe-help-our-planet-earth.png",
+	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/documentary",
+	"stations": [
+	
+  
+
+	{
+	"name": "24 October 2020",  
+	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+	"url": "https://androidtvtech.blogspot.com/",
+	"playInNatPlayer": "true"
+	},
+      {
+      "name": "PSI สาระดี 24 ชั่วโมง",
+      "image": "https://www.doohdbox.com/assets/201707081756341945061266.jpg",
+      "url": "http://96.30.124.99:1935/edgepsi/PSIHD.stream_720p/chunklist.m3u8",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "World Animal",
+      "image": "https://il.mahidol.ac.th/upload/img/2020-08-31-011449.jpg",
+      "url": "http://203.154.243.32:8088/live/wanimal/index.m3u8",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "สำรวจโลก",
+      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",
+      "url": "https://www.doomovie-hd.com/?r=tv_view&id=130",
+      "playInNatPlayer": "true"
+      },
+	{
+      "name": "Love Nature",
+      "image": "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/12/Love-Nature-4K.jpg",
+      "url": "https://we-play.tv/watching/tv/lovenature-4k",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Discovery Channel",
+      "image": "https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png",
+      "url": "https://we-play.tv/watching/tv/discovery-channel",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Discovery Asia",
+      "image": "https://center.beinsport.biz//assets/images/channel_new_mini/hd-discovery.png",
+      "url": "https://we-play.tv/watching/tv/discovery-asia",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "History HD",
+      "image": "https://images.iptvhero.com/channel/hd-history.png",
+      "url": "https://we-play.tv/watching/tv/history-hd",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "H2",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",
+      "url": "https://we-play.tv/watching/tv/history-h2",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Nat Geo Graphic",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png",
+      "url": "https://we-play.tv/watching/tv/national-geographic",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Nat Geo Wild",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png",
+      "url": "https://we-play.tv/watching/tv/nat-geo-wild",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Animal Planet",
+      "image": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/480xAny/7/3/5/6735_animalplanetnewlogo2018_906859.jpg",
+      "url": "https://we-play.tv/watching/tv/animal-planet",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "TLC",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/640px-Tlc_logo_discovery.svg.png",
+      "url": "https://we-play.tv/watching/tv/tlc-hd",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Outdoor Channel",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png",
+      "url": "https://we-play.tv/watching/tv/outdoor-channel",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Outside TV",
+      "image": "http://outsidetvcdn.outsidetv.com/img/theme/header_logo_v2.png",
+      "url": "https://outsidetv-roku-us.amagi.tv/playlist.m3u8",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Way Point",
+      "image": "https://lh3.googleusercontent.com/Y75swKZiF976cC34ingBDNaAUexKFuZ6A5CsOkCs_LG9Epqmhlru0S1ydV5bf4f4DYQ=s180-rw",
+      "url": "https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "PURSUIT UP",
+      "image": "https://images.squarespace-cdn.com/content/v1/5d70010bf3397e0001480afb/1570829868597-Z2S8LNRVVP3U7E1DNHUX/ke17ZwdGBToddI8pDm48kPCKOULcG7ZXqZGAlYEl4XcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcMMuyR7W_UPKdK9p3vyVTzhnUa15Q8j3BDmW4KTWRryj-ARwCt95ic6X0v16xT7d3/9+PursuitUP-1024x401.png",
+      "url": "https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "HUNT Channel",
+      "image": "https://www.pngkit.com/png/full/206-2062370_hunt-hunt-channel.png",
+      "url": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Outdoor America",
+      "image": "https://www.outdooramerica.com/wp-content/uploads/2020/04/Outdoor-America-logo-color.png",
+      "url": "https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "TV Agro HD",
+      "image": "http://tvagro.tv/wp-content/uploads/2019/05/logo-tvagro-png-letras-blancas.png",
+      "url": "http://179.1.7.198:1935/live/TVAgroHD.stream_360p/.m3u8",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "FISH TV",
+      "image": "https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/fishtv.png",
+      "url": "https://youtube.com/embed/ZMNKkiiShZI?autoplay=1",
+      "playInNatPlayer": "true"
+      },
+
+
+
+           ]
+}
