@@ -1,0 +1,284 @@
+{
+	"name": "ช่องหนังและซีรีส์",
+	"author": "@แอนดรอยด์แอพฟรี",
+	"image": "https://www.pmh.be/images/channels/proximus-m-s.png",
+	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/entertainment",
+	"stations": [
+	
+  
+  {
+	"name": "28 October 2020",  
+	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+	"url": "https://androidtvtech.blogspot.com/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Fox ไทย",  
+	"image": "http://2.bp.blogspot.com/-tE0IdJbqL7k/VcA5Ar3bBfI/AAAAAAAABIQ/4IDtCrOTa9w/s640/Untitled-11.jpg",  
+	"url": "https://we-play.tv/watching/tv/fox-thai",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "FOX Movies",  
+	"image": "http://tvsmagazine.com/images/channels/sm_FMP.jpg",  
+	"url": "https://we-play.tv/watching/tv/fox-movies",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Fox Action Movies",  
+	"image": "http://tvsmagazine.com/images/channels/sm_FAM.jpg",  
+	"url": "https://we-play.tv/watching/tv/fox-action-movies",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Fox Family Movies",  
+	"image": "http://tvsmagazine.com/images/channels/sm_FFM.jpg",  
+	"url": "https://we-play.tv/watching/tv/fox-family-movies",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "FOX CRIME",  
+	"image": "https://www.tvchinese.net/uploads/tv/foxcrime.jpg",  
+	"url": "https://we-play.tv/watching/tv/fox-crime",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Fox Life",  
+	"image": "https://tube.hk/images/tv_cache/c/400x400_51fox_life_asia.jpg",  
+	"url": "https://we-play.tv/watching/tv/fox-life",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "HBO HD",  
+	"image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png",  
+	"url": "https://we-play.tv/watching/tv/hbo-hd",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "HBO Hits",  
+	"image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png",  
+	"url": "https://we-play.tv/watching/tv/hbo-hits",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "HBO RED",  
+	"image": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png",  
+	"url": "https://we-play.tv/watching/tv/red-by-hbo",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "HBO Family",  
+	"image": "https://cdn.tvpassport.com/image/station/240x135/hbo-family.png",  
+	"url": "https://we-play.tv/watching/tv/hbo-family",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "HBO signature",  
+	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png",  
+	"url": "https://we-play.tv/watching/tv/hbo-signature",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "M Channel",  
+	"image": "http://www.m-channel.com/logo.png",  
+	"url": "http://27.254.142.207:8080/live/web.m3u8",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "channel8thailand",  
+	"image": "http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",  
+	"url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "TVN",  
+	"image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tvn.png",  
+	"url": "https://www.we-play.tv/watching/tv/tvn",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+
+  {
+	"name": "True Film HD",  
+	"image": "http://tvsmagazine.com/images/channels/sm_FILMHD.jpg",  
+	"url": "https://we-play.tv/watching/tv/true-film-hd",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "True Thai Film",  
+	"image": "http://tvsmagazine.com/images/channels/sm_THAIF.jpg",  
+	"url": "https://we-play.tv/watching/tv/true-thai-film",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "True Asian Series",  
+	"image": "http://tvsmagazine.com/images/channels/sm_TASIAN.jpg",  
+	"url": "https://we-play.tv/watching/tv/true-asian-series-hd",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Cinemax",  
+	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png",  
+	"url": "https://we-play.tv/watching/tv/cinemax",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Warner Tv",  
+	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/150px-Warner2018LA.png",  
+	"url": "https://we-play.tv/watching/tv/warner-tv",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Paramount Channel",  
+	"image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/400px-Paramount_Channel.svg.png",  
+	"url": "https://we-play.tv/watching/tv/paramount-channel",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Hits Movies",  
+	"image": "https://hitstv.com/assets/logo-HITSMOVIES.png",  
+	"url": "https://www.doomovie-hd.com/?r=tv_view&id=234",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Hits",  
+	"image": "https://hitstv.com/assets/logo_hits.png",  
+	"url": "https://we-play.tv/watching/tv/hits",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "X-Zyte HD",  
+	"image": "https://teevee-hd.com/img/truexzyte.png",  
+	"url": "https://we-play.tv/watching/tv/true-xzyte",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "AXN HD",  
+	"image": "https://www.we-play.tv//uploads/posters/-poster1602704538.jpeg",  
+	"url": "https://we-play.tv/watching/tv/axn-hd",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Thrill",  
+	"image": "https://www.doofree88.com/storage/live/Cp06o22CVWzWsoBh7TpMNBBAIWmKiMdp30aGIRwc.png",  
+	"url": "https://www.fwiptv.info/player_demo.php?channel=718",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Hi-Def 1",  
+	"image": "https://www.wiseknow.com/wp-content/uploads/2020/07/hi-def11.jpg",  
+	"url": "https://we-play.tv/watching/tv/hidef-1",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "BLUEANT ENTERTAINMENT",  
+	"image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F886f43a6-7655-4bdc-a4c2-4824667a980f.png&w=320&h=240",  
+	"url": "https://we-play.tv/watching/tv/blueant-entertainment",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "BLUEANT EXTREME",  
+	"image": "https://cms.dmpcdn.com/livetv/2018/12/17/f2e16412-98be-40a4-8690-74fd2ba059fc.png",  
+	"url": "https://we-play.tv/watching/tv/blueant-extreme",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "ZEE หนัง",  
+	"image": "https://cms.dmpcdn.com/livetv/2020/06/23/1acff970-b550-11ea-8fac-236a281cd6c5_320.png",  
+	"url": "https://we-play.tv/watching/tv/zee-nung",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Brat TV วัยรุ่น",  
+	"image": "https://www.brijaemorris.com/uploads/5/8/5/7/58575673/published/brat-tv-wordmark-blue-web.png?1584320989",  
+	"url": "https://brat-roku-us.amagi.tv/playlist.m3u8",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Bloody Disgusting",  
+	"image": "https://pbs.twimg.com/profile_images/1198734123495559169/mSocd0eJ_400x400.jpg",  
+	"url": "https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "CINE LIFE",  
+	"image": "https://www.cinelifeentertainment.com/wp-content/uploads/2019/01/logo-1.png",  
+	"url": "https://magselect-stirr.amagi.tv/playlist.m3u8",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Movie Sphere",  
+	"image": "https://image.roku.com/developer_channels/prod/35a86ed623bc8974be2af3222d6affe78aaf050f7823ea751f1e7c32c6688d9b.png",  
+	"url": "https://moviesphere-roku.amagi.tv/playlist.m3u8",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "MovieMix",  
+	"image": "https://tv.mobistream.co.za/upload/source/moviemix%20(1).png",  
+	"url": "https://sonar.sinclair.wurl.com/manifest/playlist.m3u8",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "SHOUT TV",  
+	"image": "https://www.shoutfactorytv.com/assets/logo-new-ee14b0a629f2a23500bd88f93e465567.png",  
+	"url": "https://shoutfactorytv-stirr.amagi.tv/playlist.m3u8",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Rouge TV",  
+	"image": "https://live-tv-channels.org/pt-data/uploads/logo/ch-rouge-tv-1916.jpg",  
+	"url": "https://edge7.vedge.infomaniak.com/livecast/rougetv/.m3u8",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Mello TV",  
+	"image": "https://lh3.googleusercontent.com/rOUkQlN6on_0V6EMcMQOW_TwnmrnqYVgSTcyYYmBFbkoczDz3-y8n6Ej2sdgWaohsw",  
+	"url": "https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Gravitas Movies",  
+	"image": "https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png",  
+	"url": "https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "horror channel",  
+	"image": "https://www.horrordna.com/images/news/tv/clout/horror-channel/horror-channel-banner.jpg",  
+	"url": "https://streamingserver002.viewtvgroup.com/KUK-HORRORCHANNEL/index.m3u8",
+	"playInNatPlayer": "true"
+	},
+  {
+	"name": "Scream Fest",  
+	"image": "https://www.sliceofscifi.com/wp-content/uploads/2016/09/ScreamfestLA.jpg",  
+	"url": "https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8",
+	"playInNatPlayer": "true"
+	},
+
+
+  ]
+}
