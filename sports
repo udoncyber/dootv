@@ -1,0 +1,172 @@
+{
+	"name": "ช่องกีฬาทรู-กีฬาไทย",
+	"author": "@แอนดรอยด์แอพฟรี",
+	"image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
+	"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/truesports",
+	"stations": [
+	  
+
+	{
+	"name": "24 October 2020",  
+	"image": "https://seo-web.aun-thai.co.th/wp-content/uploads/2018/01/update-1672353_960_720-e1516173341277.png",  
+	"url": "https://androidtvtech.blogspot.com/",
+	"playInNatPlayer": "true"
+	},
+	{
+      "name": "Premiere Football HD 1",
+      "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf1.jpg",
+      "url": "https://we-play.tv/watching/tv/true-premier-football-hd-1",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Premiere Football HD 2",
+      "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf2.jpg",
+      "url": "https://we-play.tv/watching/tv/true-premier-football-hd-2",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Premiere Football HD 3",
+      "image": "https://www.i99win.com/wp-content/uploads/2019/08/tpf3.jpg",
+      "url": "https://we-play.tv/watching/tv/true-premier-football-hd-3",
+      "referer": "https://doomovie-hd.com/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Premiere Football HD 4",
+      "image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture33.jpg",
+      "url": "https://we-play.tv/watching/tv/true-premier-football-hd-4",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Premiere Football HD 5",
+      "image": "https://www.i99win.com/wp-content/uploads/2019/08/Capture44.jpg",
+      "url": "https://we-play.tv/watching/tv/true-premier-football-hd-5",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "True Sport HD",
+      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png",
+      "url": "https://we-play.tv/watching/tv/true-sports-hd",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "True Sport HD 2",
+      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png",
+      "url": "https://we-play.tv/watching/tv/true-sports-hd-2",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "True Sport HD 3",
+      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png",
+      "url": "https://we-play.tv/watching/tv/true-sports-hd-3",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "True Sport HD 4",
+      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png",
+      "url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport4&api_key=hmcb4rf66f",
+      "referer": "https://dooball66.com/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "True Sport 2",
+      "image": "https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",
+      "url": "https://we-play.tv/watching/tv/true-sports-2",
+      "referer": "https://we-play.tv/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "True Sport 5",
+      "image": "https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",
+      "url": "https://ball8k.com/m/ch.php?stream=truesport5",
+      "referer": "https://ball8k.com/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "True Sport 6",
+      "image": "https://cms.dmpcdn.com/livetv/2019/10/28/d41eff60-f972-11e9-9d60-a7e46cdf4330_320.png",
+      "url": "https://ball8k.com/m/ch.php?stream=truesport6",
+      "referer": "https://ball8k.com/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "True Sport 7",
+      "image": "https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",
+      "url": "https://ball8k.com/m/ch.php?stream=truesport7",
+      "referer": "https://ball8k.com/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Fox Sports HD",
+      "image": "https://fifa55u.com/images/icon/FOXSportsHD.png",
+      "url": "https://www.doomovie-hd.com/?r=tv_view&id=28",
+      "referer": "https://www.doomovie-hd.com/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Fox Sports 2",
+      "image": "https://fifa55u.com/images/icon/FOXSports2.png",
+      "url": "https://www.doomovie-hd.com/?r=tv_view&id=29",
+      "referer": "https://www.doomovie-hd.com/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Fox Sports 3",
+      "image": "https://fifa55u.com/images/icon/FOXSports3.png",
+      "url": "https://www.doomovie-hd.com/?r=tv_view&id=30",
+      "referer": "https://www.doomovie-hd.com/",
+      "playInNatPlayer": "true"
+      },
+	{
+	"name": "Bein Sports 1 TH",
+	"image": "https://overseer.blackboxsys.net/images/png/epl-bein1.png",
+	"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmcb4rf66f",
+	"referer": "https://dooball66.com/",
+	"playInNatPlayer": "true"
+	},
+	{
+	"name": "Bein Sports 2 TH",  
+	"image": "https://overseer.blackboxsys.net/images/png/epl-bein2.png",  
+	"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2&api_key=hmcb4rf66f",
+	"referer": "https://dooball66.com/",
+	"playInNatPlayer": "true"
+	},
+      {
+      "name": "True Tennis",
+      "image": "https://fifa55u.com/images/icon/TrueSportTennis.png",
+      "url": "https://freetvdd.com/%e0%b8%81%e0%b8%b5%e0%b8%ac%e0%b8%b2/true-tennis-hd-th/",
+      "referer": "https://freetvdd.com/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "Golf Channel",
+      "image": "https://fifa55u.com/images/icon/GolfChannel.png",
+      "url": "https://www.doomovie-hd.com/?r=tv_view&id=27",
+      "referer": "https://www.doomovie-hd.com/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "NBA TV",
+      "image": "https://fifa55u.com/images/icon/nbatvtrue.png",
+      "url": "https://www.doomovie-hd.com/?r=tv_view&id=25",
+      "referer": "https://www.doomovie-hd.com/",
+      "playInNatPlayer": "true"
+      },
+      {
+      "name": "T Sports",
+      "image": "https://www.doomovie-hd.com/assets/img/ch_logo/TSportsChannel.png",
+      "url": "https://www.doomovie-hd.com/?r=tv_view&id=189",
+      "referer": "https://www.doomovie-hd.com/",
+      "playInNatPlayer": "true"
+      },
+
+
+      ]
+ }
