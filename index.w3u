@@ -1,68 +1,45 @@
 {
-"name": "YOUTUBE@แอนดรอยด์แอพฟรี",
-"author": "@แอนดรอยด์แอพฟรี",
+"name": "A-PLAY",
+"author": "@Aplay",
 "image": "https://res06.noxgroup.com/noxinfluencer/youtube/avatar/f6e180da4f51e8fb1c0423106a64bd16.png",
-"url": "https://raw.githubusercontent.com/konhuafuu315/IPTV/master/MAIN2",
+"url": "#",
 "groups": [
 {
 "name": "ช่องดิจิตอล ทีวีไทย",
 "image": "http://aosat.igetweb.com/article/art_42144142.png",
-"url": "http://tiny.cc/thaitv01",
+"url": "https://raw.githubusercontent.com/udoncyber/dootv/main/tv",
 "import": false
 },
 {
 "name": "กีฬา ทรูสปอร์ต",
 "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
-"url": "http://tiny.cc/truesports",
-"import": false
-},
-{
-"name": "กีฬารอบโลก",
-"image": "https://www.freepnglogos.com/uploads/sport-png/sport-kids-hobby-store-shop-for-activity-kits-art-craft-35.png",
-"url": "http://tiny.cc/worldsports",
+"url": "https://raw.githubusercontent.com/udoncyber/dootv/main/sports",
 "import": false
 },
 {
 "name": "ช่องหนังและซีรีส์",
 "image": "https://www.pmh.be/images/channels/proximus-m-s.png",
-"url": "http://tiny.cc/entertainment01",
+"url": "https://raw.githubusercontent.com/udoncyber/dootv/main/movies",
 "import": false
 },
 {
 "name": "ช่องสารคดี",
 "image": "https://www.pngkey.com/png/full/31-312197_pod-globe-help-our-planet-earth.png",
-"url": "http://tiny.cc/docs01",
+"url": "https://raw.githubusercontent.com/udoncyber/dootv/main/doc",
 "import": false
 },
 {
 "name": "สำหรับเด็ก",
 "image": "https://www.pngkey.com/png/full/399-3998494_kids-world-logo-png-transparent-kids-world-logo.png",
-"url": "http://tiny.cc/kids01",
+"url": "https://raw.githubusercontent.com/udoncyber/dootv/main/kid",
 "import": false
 },
 {
 "name": "ข่าวต่างประเทศ",
 "image": "http://www.4androidapk.com/data/programs/images/world-news_1055.png",
-"url": "http://tiny.cc/worldnews01",
+"url": "https://raw.githubusercontent.com/udoncyber/dootv/main/newsworld",
 "import": false
 },
-{
-"name": "UK TV",
-"image": "http://www.pngall.com/wp-content/uploads/2016/06/United-Kingdom-Flag-PNG.png",
-"url": "http://tiny.cc/UKTV",
-"import": false
-},
-{
-"name": "USA TV",
-"image": "https://clipart.info/images/ccovers/1559856917USA-Flag-Map-PNG-Clip-Art-Image.png",
-"url": "http://tiny.cc/USATV",
-"import": false
-},
-{
-"name": "อาเซียน ทีวี",
-"image": "https://logos-download.com/wp-content/uploads/2016/09/Asean_logo_logotype.png",
-"url": "http://tiny.cc/aseantv",
-"import": false
-},
+
 ]
 }
