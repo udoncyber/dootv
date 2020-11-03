@@ -212,6 +212,13 @@
 	"referer": "https://we-play.tv/",
 	"playInNatPlayer": "true"
 	},
+	  {
+	"name": "waku-waku-japan หนัง",  
+	"image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png",  
+	"url": "https://we-play.tv/watching/tv/waku-waku-japan",
+	"referer": "https://we-play.tv/",
+	"playInNatPlayer": "true"
+	},
   {
 	"name": "Brat TV วัยรุ่น",  
 	"image": "https://www.brijaemorris.com/uploads/5/8/5/7/58575673/published/brat-tv-wordmark-blue-web.png?1584320989",  
