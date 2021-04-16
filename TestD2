@@ -1,0 +1,395 @@
+{  
+    "name": "VARIETY", 
+    "author": "update 15/4/2021",
+    "image": "https://www.stantonschools.com/vimages/shared/vnews/stories/5e7122cda0d64/1_Update.png",       
+    "stations": [
+,
+
+{
+"name": "SUN MOVIES",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5CTeeeCvfCn-Nr3cpV4DICoFkF-2L4LcMjQ&usqp=CAU",  
+"url": "http://61.19.242.134:80/feed/LC1/index.m3u8",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BOX FILM",  
+"image": "https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-o.png",  
+"url": "http://61.19.242.134:80/feed/LC52/index.m3u8",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SAMURAI",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1iPg93Mzxsm6ZXQMhIp1UcoH7qfulTzsa_g&usqp=CAU",  
+"url": "http://61.19.242.134:80/feed/LC2/index.m3u8",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SANOOK MOVIES",  
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa-yWzN-w5DDYWiaa6gvMcMrFxQe0QuTBg7g&usqp=CAU",  
+"url": "http://61.19.242.134:80/feed/LC53/index.m3u8",
+"referer": "https://we-play.tv/",
+"playInNatPlayer": "true"
+},
+ 
+{
+    
+     "name": "เชียงราย แชลแนล",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603632362127_movie_image.jpg",              
+     "url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
+      "import": false
+},
+ {
+     "name": "KMTV",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-kmtv_720/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "Food Network HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-food_720/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "Food Network HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/be5bba16-15a7-4aba-9867-9979b733c420.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-foodnetwork_720/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "Asian Food Network ",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-asianfood_720/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "Asian Food Network ",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-asianfood_480/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "Asian Food Network ",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
+     "url": "http://indyfox.dns.army:8081/iptv/sd-asianfood.stream/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "Asian Food Network ",
+     "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",              
+     "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "LIFETIME",
+     "image": "http://cms.dmpcdn.com/livetv/2018/01/18/75398c9a-caad-4e92-8356-5a625a36c498.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-lifetime_720/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "TRUE INSIDE HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
+     "url": "https://mediasv.online/tvchannel_x2/trueinside/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "TRUE INSIDE HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-inside_720/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "TRUE INSIDE HD k",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/17357408-dc10-45f1-bff5-c9ab4807a2c0.png",
+     "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/144.m3u8",
+      "userAgent": "ProPlayer",
+      "playInNatPlayer": "true"
+},
+ {
+     "name": "FASHION TV",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/a915a6a2-2e64-49e4-8049-6741274ce00e.png",              
+     "url": "https://mediasv.online/tvchannel_x2/fashiontv/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "FASHION TV",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/a915a6a2-2e64-49e4-8049-6741274ce00e.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-fashiontv_720/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "ทรู ปลูกปัญญา",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/1d7dc8be-49df-46c7-ac16-4847229c6ab9.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-tppy_480/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "ทรู ปลูกปัญญา",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/1d7dc8be-49df-46c7-ac16-4847229c6ab9.png",              
+     "url": "http://indyfox.dns.army:8081/iptv/sd-tppy.stream/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "GEM",
+     "image": "https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_320.png",                                                                                                                                                                                          
+     "url": "https://mediasv.online/tvchannel_x2/gem/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "GEM",
+     "image": "https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_320.png",                                                                                                                                                                                          
+     "url": "http://45.126.83.51/session/4b965e82-6e78-11eb-a799-ba99ac333be4/uq2663/h/h19/02.m3u8",
+     "import": false
+},
+ {
+     "name": "Stringray iConcerts HD",
+     "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
+     "url": "https://player.we-play.tv/channel.php?name=iconcerts&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "Stringray iConcerts HD",
+     "image": "http://cms.dmpcdn.com/livetv/2019/01/16/aa02422d-9a3a-4dd4-9e11-15bd219ed41e.png",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-iconcerts_720/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "TRUE MUSIC HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
+     "url": "https://mediasv.online/tvchannel_x2/truemusic/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "TRUE MUSIC HD",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png", 
+     "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/296.m3u8",
+      "userAgent": "ProPlayer",
+      "playInNatPlayer": "true"
+},
+ {
+     "name": "TRUE MUSIC",
+     "image": "http://cms.dmpcdn.com/livetv/2018/12/17/bff4c21a-7714-4f37-8c90-7f46c8337192.png",              
+     "url": "https://www.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8",
+     "import": false
+},
+ {
+     "name": "เรียลลิตี้ แชนแนล",
+     "image": "https://cms.dmpcdn.com/livetv/2020/04/21/b78d55f0-83af-11ea-9a0e-4bf114629baf_320.png",              
+     "url": "https://tv.trueid.net/embed/realitychannel-hd?autoplay=yes&nopageview=yes",
+     "embed": "true",
+     "playInNatPlayer": "true",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+},
+ {
+     "name": "FTV",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1578592825654_movie_image.png",              
+     "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8",
+     "import": false
+},
+ {
+     "name": "BLUEANT ENTERTAINMENT",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-blueant_720/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "BLUEANT ENTERTAINMENT",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+     "url": "https://mediasv.online/tvchannel_x2/blueant/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "BLUEANT ENTERTAINMENT k",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg", 
+     "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/121.m3u8",
+      "userAgent": "ProPlayer",
+      "playInNatPlayer": "true"
+},
+ {
+     "name": "BLUEANT ENTERTAINMENT",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+     "url": "https://player.we-play.tv/channel.php?name=blue-ent&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "BLUEANT ENTERTAINMENT",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/9498e3fd-362e-472a-a6cf-fcc344596b49.jpg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-rtlcbs_480/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "BLUEANT EXTREME",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
+     "url": "https://mediasv.online/tvchannel_x2/blueantex/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "BLUEANT EXTREME",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
+     "url": "https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment","referer": "https://player.we-play.tv"
+},
+ {
+     "name": "BLUEANT EXTREME",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-blueantex_720/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "BLUEANT EXTREME",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",              
+     "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-rtlcbsextreme_480/chunks.m3u8",
+     "import": false
+},
+ {
+     "name": "BLUEANT EXTREME k",
+     "image": "https://cms.dmpcdn.com/livetv/2018/01/18/193e5e37-3251-4715-8e8a-4a2cc597a674.jpg",
+     "url": "https://zecallion.com:8443/live/t143@gmail.com/878554/122.m3u8",
+      "userAgent": "ProPlayer",
+      "playInNatPlayer": "true"
+},
+ {
+     "name": "Channel V HD",
+     "image": "https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo.jpeg",              
+     "url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8",
+     "import": false
+},
+ {
+     "name": "V Channel",
+     "image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1606637020738_movie_image.png",              
+     "url": "http://61.19.242.134/feed/LC14/index.m3u8",
+     "userAgent": "ProPlayer",
+     "playInNatPlayer": "true" 
+},
+  { 
+      "name": "True X-ZYTE 1080p",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
+      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-xzyte_1080/chunks.m3u8",
+      "import": false
+},
+  { 
+      "name": "True X-ZYTE ",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
+      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-xzyte_720/chunks.m3u8",
+      "import": false
+},
+  { 
+      "name": "True X-ZYTE",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
+       "url": "http://indyfox.dns.army:8081/iptv/hd-xzyte.stream/chunks.m3u8",
+       "import": false
+},
+  { 
+      "name": "True X-ZYTE ",
+      "image": "http://cms.dmpcdn.com/livetv/2018/12/17/05979f77-0c03-4f14-8d5a-bfc0c6675626.png",              
+      "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/hd-xzyte_720/chunks.m3u8",
+      "import": false
+},
+  { 
+      "name": "Waku Waku Japan",
+      "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
+       "url": "https://mediasv.online/tvchannel_x1/wakuwakujapan/playlist.m3u8",
+       "import": false
+},
+  { 
+      "name": "Waku Waku Japan",
+      "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
+       "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-wakuwaku_720/chunks.m3u8",
+       "import": false
+},
+ { 
+      "name": "Waku Waku Japan",
+      "image": "https://www.iptv4k.tv/images/tv/dKYz529AsphKvxg2u9ZSkWNV2x8lrPDwakuwaku.png",              
+       "url": "https://player.we-play.tv/channel.php?name=wakuwakujapan&cate=entertainment","referer": "https://player.we-play.tv"
+},
+{
+    "name":"TLC HD",
+    "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
+    "url": "https://mediasv.online/tvchannel_x1/hd-tlc/playlist.m3u8",
+    "import": false
+},
+{
+    "name":"TLC HD",
+    "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/lb-tlc_720/chunks.m3u8",
+    "import": false
+},
+{
+    "name":"TLC HD",
+    "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
+    "url": "https://player.we-play.tv/channel.php?name=tlc&cate=documentary","referer": "https://player.we-play.tv"
+},
+{
+    "name":"TLC HD ",
+    "image":"https://www.we-play.tv//uploads/posters/tlc-hd-poster1602705866.jpeg",
+    "url": "https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8",
+    "import": false
+},
+{
+    "name":"SABAIDEETV",
+    "image":"http://cms.dmpcdn.com/livetv/2019/01/19/efd05f53-ede6-4141-8ed9-275a4d8e33f4.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-sabaidee_480/chunks.m3u8",
+    "import": false
+},
+{
+    "name":"ซุปเปอร์บันเทิง",
+    "image":"http://cms.dmpcdn.com/livetv/2019/01/21/a870a651-9595-4921-bc41-7ba39d7067a3.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/th-sbt_480/chunks.m3u8",
+    "import": false
+},
+{
+    "name":"EGG Network",
+    "image":"https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png",
+    "url": "https://vodcache.worldwidetv.club/wwtv-live-o33-th/liveorigin/sd-eggnetwork_480/chunks.m3u8",
+    "import": false
+},
+{
+    "name":"Comedy Central",
+    "image":"https://static.uflixtv.com/images/tv/channels_icons/hd-comedycentral.png",
+    "url": "http://maxcotv.watch:8880/live/ginboomerang1@gmail.com/wyBrRSgjQt/102.m3u8",
+    "import": false
+},
+{
+    "name":"BTV4",
+    "image":"https://mytv.com.vn/upload/channel/615.png",
+    "url": "https://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8",
+    "import": false
+},
+ {
+      "name": "Amazing Hi Show",
+      "image": "http://www.chang55.com/movie/upload/movie_img/AMAZING-HI-SHOW-CH1_Thumb.png",
+      "url": "http://203.154.243.89:1214/",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+ {
+      "name": "MUSIC FOR YOU",
+      "image": "https://il.mahidol.ac.th/upload/img/2020-11-10-025036.jpg",
+      "url": "http://203.154.243.89:1213",
+      "userAgent": "exoplayer_video",
+      "playInNatPlayer": "true"
+},
+  {
+     "name": "CABLE 37 HD",
+     "image": "https://sv1.picz.in.th/images/2020/10/17/b7cOc9.png",              
+     "url": "http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
+     "import": false
+},
+  {
+     "name": "ลูกทุ่ง TVHD",
+     "image": "https://sv1.picz.in.th/images/2020/10/06/Op2Qtt.jpg",              
+     "url": "https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8",
+     "import": false
+},
+  {
+     "name": "LAO STAR",
+     "image": "http://cms.dmpcdn.com/livetv/2017/10/18/9b807931-1c79-454b-8854-d5ea22c0735c.png",              
+     "url": "https://cdn6.goprimetime.info/feed/LC58/playlist.m3u8",
+     "userAgent": "ProPlayer",
+     "playInNatPlayer": "true"
+},
+]
+}
